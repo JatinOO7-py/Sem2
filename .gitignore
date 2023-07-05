@@ -1,1 +1,4 @@
-error.txt
+*.txt
+.DS_Store
+desktop-tutorial/
+tensorflow/
